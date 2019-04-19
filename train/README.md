@@ -13,4 +13,4 @@ We further provide features of the segmented clips, please use the 'download_tra
 
 Please uncomment the respective lines in the script.
 
-If you're interested in the original video files and/or the subtitles used, 
+If you're interested in the original video files and/or the subtitles used, please ontact me under kuehne [at] iai.uni-bonn.de
