@@ -6,10 +6,10 @@ The segmentation information can be used to extraced segments with the respectiv
 
 We further provide features of the segmented clips, please use the 'download_train_files.sh' script to download all further files. Available are:
 
-- raw features (txt), rgb and flow
-- features in numpy format, rgb and flow are alreadu concatenated (2048 dim vector per frame) 
-- ground truth (frame based and per file) 
-- transcript (transcript of each video) 
+- segmentation 
+- clips (in .mp4)
+- features in numpy format
+- features in numpy format, rgb and flow oncatenated, pre packed in chuncks of 1000 clips for easier loading:
 
 Please uncomment the respective lines in the script.
 
