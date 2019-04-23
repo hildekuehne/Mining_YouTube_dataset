@@ -2,7 +2,7 @@
 ## segmentation (76 MB)
 # https://drive.google.com/file/d/1JfvbwdfEqV8aHQ-E87_vtyaZeSCiGkTo
 
-## clips (in .mp4):
+## clips (in .mp4, 204GB):
 # https://drive.google.com/file/d/1imWhxixFEB7V4ASJ3tXYpoBZ8hA6ht00
 
 ## features in numpy format
@@ -16,8 +16,8 @@
 ## wget https://drive.google.com/file/d/1E9AJngHFUlcuotaZ6dr5t6mUX9-X0aPf
 
 ## features in numpy format, pre packed in chuncks of 1000 clips for easier loading:
-## part1 :
+## part1 (151 GB) :
 # wget https://drive.google.com/file/d/1xRAnz8Okrl4NDaXJiQQPFAeWuiGFZury
-## part2 :
+## part2 (103 GB) :
 # wget https://drive.google.com/file/d/15S8rbf7YDjU83rqCidfPVbDQAYJzOnwP
 
