@@ -16,7 +16,7 @@ echo 'Please uncomment the files you want to download ... '
 
 # echo 'features in numpy format, rgb and flow are already concatenated (2048 dim vector per frame) 15 GB: (org link https://drive.google.com/file/d/1VitgCDmX9GWPOCx0JI3er-2w25d5Wh_g)'
 # wget --load-cookies ./cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ./cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1VitgCDmX9GWPOCx0JI3er-2w25d5Wh_g' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1VitgCDmX9GWPOCx0JI3er-2w25d5Wh_g" -O rgb_flow_numpy.tar.gz && rm -rf ./cookies.txt
-# mkdir ./flow_raw
+# mkdir ./rgb_flow_numpy
 # tar xf rgb_flow_numpy.tar.gz -C ./rgb_flow_numpy
 
 
