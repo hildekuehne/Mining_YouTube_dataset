@@ -1,7 +1,7 @@
-# Weak_YouTube_dataset
+# Mining_YouTube_dataset
 
 
-The Weak YouTube dataset is a large-scale real-world benchmark designed to evaluate automated learning techniques for human action recognition without humanly annotated training data. 
+The Mining YouTube dataset (working title 'Weak YouTube dataset') is a large-scale real-world benchmark designed to evaluate automated learning techniques for human action recognition without humanly annotated training data. 
 
 The here presented dataset is based on the idea that it should be possible to learn action classes and concepts from unannotated videos.
 
