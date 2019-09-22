@@ -7,7 +7,7 @@ The here presented dataset is based on the idea that it should be possible to le
 
 The dataset comprises 512 different classes (incl. background 513) in form of verb oject combinations, based on 94 different verbs and 171 objects.
 
-![Sample classes](https://hildekuehne.github.io/img/Bild1.png)
+![Sample classes](https://hildekuehne.github.io/img/Bild2.png)
 
 
 
