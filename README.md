@@ -7,7 +7,7 @@ The here presented dataset is based on the idea that it should be possible to le
 
 The dataset comprises 512 different classes (incl. background 513) in form of verb oject combinations, based on 94 different verbs and 171 objects.
 
-![Sample classes](https://www.dropbox.com/s/5z18e5t4rpp0q15/Bild1.png)
+![Sample classes](https://hildekuehne.github.io/img/Bild1.png)
 
 
 
@@ -19,7 +19,7 @@ Overall the training video base consists of ~20000 video IDs.
 
 The training samples are minded by searching for the respective annotated classes within the subtitles of freely available videos. Please refer to the paper for a deeper analysis of different mining strategies.
 
-![Example for simple class mining](https://www.dropbox.com/s/9qn5d9srl01lc4b/Bild3.png)
+![Example for simple class mining](https://hildekuehne.github.io/img/Bild3.png)
 
 ## Test da
 
@@ -32,7 +32,7 @@ The annotators were instructed to label all visible actions in the videos. Addit
 
 All annotated action classes are further checked if they appear at least 10 times in the training data.
 
-![Example for fully annotated test video](https://www.dropbox.com/s/71sedb9c6x5zadw/image_1200.png)
+![Example for fully annotated test video](https://hildekuehne.github.io/img/image_1200.png)
 
 
 ## Feature computation
