@@ -21,7 +21,7 @@ The training samples are minded by searching for the respective annotated classe
 
 ![Example for simple class mining](https://hildekuehne.github.io/img/Bild3.png)
 
-## Test da
+## Test data
 
 
 The test set consits of 250 randomly select cooking videos, 50 from the search query of each dish. 
