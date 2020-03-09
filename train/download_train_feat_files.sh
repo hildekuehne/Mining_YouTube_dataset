@@ -6,7 +6,7 @@ echo 'Please uncomment the files you want to download ... '
 ################
 ## packed_numpy_new_flow_rgb.tar - features, subtitles, and labels, pre packed in HDF files of 1000 clips each for easier loading:
 ################
-# FILE_ID = "1A2gFE2wiOq80ZQ-fWWBf3JSDplIwQT6-"
+# FILE_ID="1_pPOqObABYVkZ7xPA--SnkhK5v5j7_a5"
 # wget --load-cookies ./cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ./cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=$FILE_ID' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=$FILE_ID" -O packed_numpy_new_flow_rgb.tar && rm -rf ./cookies.txt
 # tar xf packed_numpy_new_flow_rgb.tar -C ./packed_numpy_new_flow_rgb
 
